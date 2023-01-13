@@ -64,7 +64,7 @@ x = object()
 y = object()
 
 # TODO: change this code
-x_list = [x]
+x_list = [x] * 10
 y_list = [y]
 big_list = []
 
